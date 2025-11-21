@@ -1,0 +1,1558 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "Bible",
+    "resource_type": "Bible",
+    "title": "Indian Revised Version",
+    "aquifer_name": "Indian Revised Version",
+    "version": "1.0.2",
+    "collection_title": "Indian Revised Version",
+    "short_name": "IRV",
+    "license_info": {
+      "title": "Hindi Indian Revised Version",
+      "copyright": {
+        "dates": "2019",
+        "holder": {
+          "name": "Bridge Connectivity Solutions",
+          "url": "https://bridgeconn.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "",
+    "resource_code": "IndianRevisedVersion",
+    "date_created": "2025-11-21",
+    "language": "hin",
+    "localizations": [],
+    "order": "canonical",
+    "content_type": "Bible"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-11-21T13:32:25.298752"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "IndianRevisedVersion": {
+            "timestamp": "2025-11-21T13:32:25.298752"
+          }
+        }
+      },
+      "name": {
+        "hi": "Indian Revised Version"
+      },
+      "abbreviation": {
+        "hi": "IRV"
+      }
+    },
+    "languages": [
+      {
+        "tag": "hi",
+        "name": {
+          "hi": "Hindi"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "scripture",
+        "flavor": {
+          "name": "textTranslation",
+          "audience": "common"
+        },
+        "currentScope": {
+          "GEN": [],
+          "EXO": [],
+          "LEV": [],
+          "NUM": [],
+          "DEU": [],
+          "JOS": [],
+          "JDG": [],
+          "RUT": [],
+          "1SA": [],
+          "2SA": [],
+          "1KI": [],
+          "2KI": [],
+          "1CH": [],
+          "2CH": [],
+          "EZR": [],
+          "NEH": [],
+          "EST": [],
+          "JOB": [],
+          "PSA": [],
+          "PRO": [],
+          "ECC": [],
+          "SNG": [],
+          "ISA": [],
+          "JER": [],
+          "LAM": [],
+          "EZK": [],
+          "DAN": [],
+          "HOS": [],
+          "JOL": [],
+          "AMO": [],
+          "OBA": [],
+          "JON": [],
+          "MIC": [],
+          "NAM": [],
+          "HAB": [],
+          "ZEP": [],
+          "HAG": [],
+          "ZEC": [],
+          "MAL": [],
+          "MAT": [],
+          "MRK": [],
+          "LUK": [],
+          "JHN": [],
+          "ACT": [],
+          "ROM": [],
+          "1CO": [],
+          "2CO": [],
+          "GAL": [],
+          "EPH": [],
+          "PHP": [],
+          "COL": [],
+          "1TH": [],
+          "2TH": [],
+          "1TI": [],
+          "2TI": [],
+          "TIT": [],
+          "PHM": [],
+          "HEB": [],
+          "JAS": [],
+          "1PE": [],
+          "2PE": [],
+          "1JN": [],
+          "2JN": [],
+          "3JN": [],
+          "JUD": [],
+          "REV": []
+        }
+      }
+    },
+    "ingredients": {
+      "usx/01GENIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 605536,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "usx/02EXOIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 486282,
+        "scope": {
+          "EXO": []
+        }
+      },
+      "usx/03LEVIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 351033,
+        "scope": {
+          "LEV": []
+        }
+      },
+      "usx/04NUMIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 491007,
+        "scope": {
+          "NUM": []
+        }
+      },
+      "usx/05DEUIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 422836,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "usx/06JOSIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 277344,
+        "scope": {
+          "JOS": []
+        }
+      },
+      "usx/07JDGIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 273177,
+        "scope": {
+          "JDG": []
+        }
+      },
+      "usx/08RUTIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 37320,
+        "scope": {
+          "RUT": []
+        }
+      },
+      "usx/091SAIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 368518,
+        "scope": {
+          "1SA": []
+        }
+      },
+      "usx/102SAIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 303957,
+        "scope": {
+          "2SA": []
+        }
+      },
+      "usx/111KIIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 360298,
+        "scope": {
+          "1KI": []
+        }
+      },
+      "usx/122KIIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 339926,
+        "scope": {
+          "2KI": []
+        }
+      },
+      "usx/131CHIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 334123,
+        "scope": {
+          "1CH": []
+        }
+      },
+      "usx/142CHIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 389672,
+        "scope": {
+          "2CH": []
+        }
+      },
+      "usx/15EZRIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 112711,
+        "scope": {
+          "EZR": []
+        }
+      },
+      "usx/16NEHIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 164169,
+        "scope": {
+          "NEH": []
+        }
+      },
+      "usx/17ESTIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 83583,
+        "scope": {
+          "EST": []
+        }
+      },
+      "usx/18JOBIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 336572,
+        "scope": {
+          "JOB": []
+        }
+      },
+      "usx/19PSAIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 804110,
+        "scope": {
+          "PSA": []
+        }
+      },
+      "usx/20PROIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 284801,
+        "scope": {
+          "PRO": []
+        }
+      },
+      "usx/21ECCIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 88253,
+        "scope": {
+          "ECC": []
+        }
+      },
+      "usx/22SNGIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 46623,
+        "scope": {
+          "SNG": []
+        }
+      },
+      "usx/23ISAIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 572433,
+        "scope": {
+          "ISA": []
+        }
+      },
+      "usx/24JERIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 641088,
+        "scope": {
+          "JER": []
+        }
+      },
+      "usx/25LAMIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 58604,
+        "scope": {
+          "LAM": []
+        }
+      },
+      "usx/26EZKIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 569198,
+        "scope": {
+          "EZK": []
+        }
+      },
+      "usx/27DANIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 176112,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "usx/28HOSIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 86111,
+        "scope": {
+          "HOS": []
+        }
+      },
+      "usx/29JOLIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 31715,
+        "scope": {
+          "JOL": []
+        }
+      },
+      "usx/30AMOIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 64990,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "usx/31OBAIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 10151,
+        "scope": {
+          "OBA": []
+        }
+      },
+      "usx/32JONIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 20526,
+        "scope": {
+          "JON": []
+        }
+      },
+      "usx/33MICIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 49419,
+        "scope": {
+          "MIC": []
+        }
+      },
+      "usx/34NAMIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 20701,
+        "scope": {
+          "NAM": []
+        }
+      },
+      "usx/35HABIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 25048,
+        "scope": {
+          "HAB": []
+        }
+      },
+      "usx/36ZEPIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 25263,
+        "scope": {
+          "ZEP": []
+        }
+      },
+      "usx/37HAGIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 17332,
+        "scope": {
+          "HAG": []
+        }
+      },
+      "usx/38ZECIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 95513,
+        "scope": {
+          "ZEC": []
+        }
+      },
+      "usx/39MALIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 28922,
+        "scope": {
+          "MAL": []
+        }
+      },
+      "usx/40MATIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 380161,
+        "scope": {
+          "MAT": []
+        }
+      },
+      "usx/41MRKIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 237737,
+        "scope": {
+          "MRK": []
+        }
+      },
+      "usx/42LUKIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 408797,
+        "scope": {
+          "LUK": []
+        }
+      },
+      "usx/43JHNIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 316086,
+        "scope": {
+          "JHN": []
+        }
+      },
+      "usx/44ACTIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 390314,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "usx/45ROMIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 166789,
+        "scope": {
+          "ROM": []
+        }
+      },
+      "usx/461COIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 162471,
+        "scope": {
+          "1CO": []
+        }
+      },
+      "usx/472COIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 106079,
+        "scope": {
+          "2CO": []
+        }
+      },
+      "usx/48GALIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 55263,
+        "scope": {
+          "GAL": []
+        }
+      },
+      "usx/49EPHIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 53565,
+        "scope": {
+          "EPH": []
+        }
+      },
+      "usx/50PHPIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 40326,
+        "scope": {
+          "PHP": []
+        }
+      },
+      "usx/51COLIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 37023,
+        "scope": {
+          "COL": []
+        }
+      },
+      "usx/521THIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 34283,
+        "scope": {
+          "1TH": []
+        }
+      },
+      "usx/532THIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 18369,
+        "scope": {
+          "2TH": []
+        }
+      },
+      "usx/541TIIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 42049,
+        "scope": {
+          "1TI": []
+        }
+      },
+      "usx/552TIIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 30214,
+        "scope": {
+          "2TI": []
+        }
+      },
+      "usx/56TITIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 18048,
+        "scope": {
+          "TIT": []
+        }
+      },
+      "usx/57PHMIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 8648,
+        "scope": {
+          "PHM": []
+        }
+      },
+      "usx/58HEBIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 120236,
+        "scope": {
+          "HEB": []
+        }
+      },
+      "usx/59JASIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 41281,
+        "scope": {
+          "JAS": []
+        }
+      },
+      "usx/601PEIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 43768,
+        "scope": {
+          "1PE": []
+        }
+      },
+      "usx/612PEIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 27265,
+        "scope": {
+          "2PE": []
+        }
+      },
+      "usx/621JNIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 42814,
+        "scope": {
+          "1JN": []
+        }
+      },
+      "usx/632JNIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 5396,
+        "scope": {
+          "2JN": []
+        }
+      },
+      "usx/643JNIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 5931,
+        "scope": {
+          "3JN": []
+        }
+      },
+      "usx/65JUDIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 11801,
+        "scope": {
+          "JUD": []
+        }
+      },
+      "usx/66REVIRV.usx": {
+        "mimeType": "application/xml",
+        "size": 179349,
+        "scope": {
+          "REV": []
+        }
+      },
+      "usfm/01GENIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 477790,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "usfm/02EXOIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 385266,
+        "scope": {
+          "EXO": []
+        }
+      },
+      "usfm/03LEVIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 279628,
+        "scope": {
+          "LEV": []
+        }
+      },
+      "usfm/04NUMIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 384307,
+        "scope": {
+          "NUM": []
+        }
+      },
+      "usfm/05DEUIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 343028,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "usfm/06JOSIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 222526,
+        "scope": {
+          "JOS": []
+        }
+      },
+      "usfm/07JDGIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 221958,
+        "scope": {
+          "JDG": []
+        }
+      },
+      "usfm/08RUTIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 30162,
+        "scope": {
+          "RUT": []
+        }
+      },
+      "usfm/091SAIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 300893,
+        "scope": {
+          "1SA": []
+        }
+      },
+      "usfm/102SAIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 246115,
+        "scope": {
+          "2SA": []
+        }
+      },
+      "usfm/111KIIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 292916,
+        "scope": {
+          "1KI": []
+        }
+      },
+      "usfm/122KIIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 280153,
+        "scope": {
+          "2KI": []
+        }
+      },
+      "usfm/131CHIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 256168,
+        "scope": {
+          "1CH": []
+        }
+      },
+      "usfm/142CHIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 320818,
+        "scope": {
+          "2CH": []
+        }
+      },
+      "usfm/15EZRIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 89593,
+        "scope": {
+          "EZR": []
+        }
+      },
+      "usfm/16NEHIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 130612,
+        "scope": {
+          "NEH": []
+        }
+      },
+      "usfm/17ESTIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 69575,
+        "scope": {
+          "EST": []
+        }
+      },
+      "usfm/18JOBIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 247126,
+        "scope": {
+          "JOB": []
+        }
+      },
+      "usfm/19PSAIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 593048,
+        "scope": {
+          "PSA": []
+        }
+      },
+      "usfm/20PROIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 208666,
+        "scope": {
+          "PRO": []
+        }
+      },
+      "usfm/21ECCIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 69681,
+        "scope": {
+          "ECC": []
+        }
+      },
+      "usfm/22SNGIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 36725,
+        "scope": {
+          "SNG": []
+        }
+      },
+      "usfm/23ISAIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 463595,
+        "scope": {
+          "ISA": []
+        }
+      },
+      "usfm/24JERIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 527134,
+        "scope": {
+          "JER": []
+        }
+      },
+      "usfm/25LAMIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 45881,
+        "scope": {
+          "LAM": []
+        }
+      },
+      "usfm/26EZKIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 462732,
+        "scope": {
+          "EZK": []
+        }
+      },
+      "usfm/27DANIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 146670,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "usfm/28HOSIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 69393,
+        "scope": {
+          "HOS": []
+        }
+      },
+      "usfm/29JOLIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 25562,
+        "scope": {
+          "JOL": []
+        }
+      },
+      "usfm/30AMOIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 52727,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "usfm/31OBAIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 8248,
+        "scope": {
+          "OBA": []
+        }
+      },
+      "usfm/32JONIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 16328,
+        "scope": {
+          "JON": []
+        }
+      },
+      "usfm/33MICIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 40526,
+        "scope": {
+          "MIC": []
+        }
+      },
+      "usfm/34NAMIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 16628,
+        "scope": {
+          "NAM": []
+        }
+      },
+      "usfm/35HABIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 20255,
+        "scope": {
+          "HAB": []
+        }
+      },
+      "usfm/36ZEPIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 20710,
+        "scope": {
+          "ZEP": []
+        }
+      },
+      "usfm/37HAGIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 14024,
+        "scope": {
+          "HAG": []
+        }
+      },
+      "usfm/38ZECIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 77669,
+        "scope": {
+          "ZEC": []
+        }
+      },
+      "usfm/39MALIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 24158,
+        "scope": {
+          "MAL": []
+        }
+      },
+      "usfm/40MATIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 291409,
+        "scope": {
+          "MAT": []
+        }
+      },
+      "usfm/41MRKIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 181975,
+        "scope": {
+          "MRK": []
+        }
+      },
+      "usfm/42LUKIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 314067,
+        "scope": {
+          "LUK": []
+        }
+      },
+      "usfm/43JHNIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 243735,
+        "scope": {
+          "JHN": []
+        }
+      },
+      "usfm/44ACTIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 306936,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "usfm/45ROMIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 130887,
+        "scope": {
+          "ROM": []
+        }
+      },
+      "usfm/461COIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 126133,
+        "scope": {
+          "1CO": []
+        }
+      },
+      "usfm/472COIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 84576,
+        "scope": {
+          "2CO": []
+        }
+      },
+      "usfm/48GALIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 42895,
+        "scope": {
+          "GAL": []
+        }
+      },
+      "usfm/49EPHIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 40717,
+        "scope": {
+          "EPH": []
+        }
+      },
+      "usfm/50PHPIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 31648,
+        "scope": {
+          "PHP": []
+        }
+      },
+      "usfm/51COLIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 29065,
+        "scope": {
+          "COL": []
+        }
+      },
+      "usfm/521THIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 26760,
+        "scope": {
+          "1TH": []
+        }
+      },
+      "usfm/532THIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 14296,
+        "scope": {
+          "2TH": []
+        }
+      },
+      "usfm/541TIIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 32561,
+        "scope": {
+          "1TI": []
+        }
+      },
+      "usfm/552TIIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 23216,
+        "scope": {
+          "2TI": []
+        }
+      },
+      "usfm/56TITIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 14055,
+        "scope": {
+          "TIT": []
+        }
+      },
+      "usfm/57PHMIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 6425,
+        "scope": {
+          "PHM": []
+        }
+      },
+      "usfm/58HEBIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 94959,
+        "scope": {
+          "HEB": []
+        }
+      },
+      "usfm/59JASIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 32238,
+        "scope": {
+          "JAS": []
+        }
+      },
+      "usfm/601PEIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 34965,
+        "scope": {
+          "1PE": []
+        }
+      },
+      "usfm/612PEIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 22072,
+        "scope": {
+          "2PE": []
+        }
+      },
+      "usfm/621JNIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 34011,
+        "scope": {
+          "1JN": []
+        }
+      },
+      "usfm/632JNIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 4133,
+        "scope": {
+          "2JN": []
+        }
+      },
+      "usfm/643JNIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 4508,
+        "scope": {
+          "3JN": []
+        }
+      },
+      "usfm/65JUDIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 9578,
+        "scope": {
+          "JUD": []
+        }
+      },
+      "usfm/66REVIRV.SFM": {
+        "mimeType": "text/plain",
+        "size": 145271,
+        "scope": {
+          "REV": []
+        }
+      },
+      "audio/01GENIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 321224,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "audio/02EXOIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 253874,
+        "scope": {
+          "EXO": []
+        }
+      },
+      "audio/03LEVIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 175887,
+        "scope": {
+          "LEV": []
+        }
+      },
+      "audio/04NUMIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 267759,
+        "scope": {
+          "NUM": []
+        }
+      },
+      "audio/05DEUIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 201661,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "audio/06JOSIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 138602,
+        "scope": {
+          "JOS": []
+        }
+      },
+      "audio/07JDGIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 129631,
+        "scope": {
+          "JDG": []
+        }
+      },
+      "audio/08RUTIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 18250,
+        "scope": {
+          "RUT": []
+        }
+      },
+      "audio/091SAIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 171067,
+        "scope": {
+          "1SA": []
+        }
+      },
+      "audio/102SAIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 140799,
+        "scope": {
+          "2SA": []
+        }
+      },
+      "audio/111KIIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 169465,
+        "scope": {
+          "1KI": []
+        }
+      },
+      "audio/122KIIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 150850,
+        "scope": {
+          "2KI": []
+        }
+      },
+      "audio/131CHIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 196679,
+        "scope": {
+          "1CH": []
+        }
+      },
+      "audio/142CHIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 174942,
+        "scope": {
+          "2CH": []
+        }
+      },
+      "audio/15EZRIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 58863,
+        "scope": {
+          "EZR": []
+        }
+      },
+      "audio/16NEHIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 84928,
+        "scope": {
+          "NEH": []
+        }
+      },
+      "audio/17ESTIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 36341,
+        "scope": {
+          "EST": []
+        }
+      },
+      "audio/18JOBIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 226293,
+        "scope": {
+          "JOB": []
+        }
+      },
+      "audio/19PSAIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 537433,
+        "scope": {
+          "PSA": []
+        }
+      },
+      "audio/20PROIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 192017,
+        "scope": {
+          "PRO": []
+        }
+      },
+      "audio/21ECCIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 47909,
+        "scope": {
+          "ECC": []
+        }
+      },
+      "audio/22SNGIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 25794,
+        "scope": {
+          "SNG": []
+        }
+      },
+      "audio/23ISAIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 277380,
+        "scope": {
+          "ISA": []
+        }
+      },
+      "audio/24JERIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 287998,
+        "scope": {
+          "JER": []
+        }
+      },
+      "audio/25LAMIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 32275,
+        "scope": {
+          "LAM": []
+        }
+      },
+      "audio/26EZKIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 268703,
+        "scope": {
+          "EZK": []
+        }
+      },
+      "audio/27DANIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 74809,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "audio/28HOSIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 41150,
+        "scope": {
+          "HOS": []
+        }
+      },
+      "audio/29JOLIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 15568,
+        "scope": {
+          "JOL": []
+        }
+      },
+      "audio/30AMOIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 31859,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "audio/31OBAIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 4632,
+        "scope": {
+          "OBA": []
+        }
+      },
+      "audio/32JONIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 10689,
+        "scope": {
+          "JON": []
+        }
+      },
+      "audio/33MICIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 23112,
+        "scope": {
+          "MIC": []
+        }
+      },
+      "audio/34NAMIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 10394,
+        "scope": {
+          "NAM": []
+        }
+      },
+      "audio/35HABIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 12185,
+        "scope": {
+          "HAB": []
+        }
+      },
+      "audio/36ZEPIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 11588,
+        "scope": {
+          "ZEP": []
+        }
+      },
+      "audio/37HAGIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 8309,
+        "scope": {
+          "HAG": []
+        }
+      },
+      "audio/38ZECIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 46337,
+        "scope": {
+          "ZEC": []
+        }
+      },
+      "audio/39MALIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 12283,
+        "scope": {
+          "MAL": []
+        }
+      },
+      "audio/40MATIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 8447,
+        "scope": {
+          "MAT": []
+        }
+      },
+      "audio/41MRKIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 4895,
+        "scope": {
+          "MRK": []
+        }
+      },
+      "audio/42LUKIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 7263,
+        "scope": {
+          "LUK": []
+        }
+      },
+      "audio/43JHNIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 6375,
+        "scope": {
+          "JHN": []
+        }
+      },
+      "audio/44ACTIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 8447,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "audio/45ROMIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 4895,
+        "scope": {
+          "ROM": []
+        }
+      },
+      "audio/461COIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 4895,
+        "scope": {
+          "1CO": []
+        }
+      },
+      "audio/472COIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 4007,
+        "scope": {
+          "2CO": []
+        }
+      },
+      "audio/48GALIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1935,
+        "scope": {
+          "GAL": []
+        }
+      },
+      "audio/49EPHIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1935,
+        "scope": {
+          "EPH": []
+        }
+      },
+      "audio/50PHPIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1343,
+        "scope": {
+          "PHP": []
+        }
+      },
+      "audio/51COLIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1343,
+        "scope": {
+          "COL": []
+        }
+      },
+      "audio/521THIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1639,
+        "scope": {
+          "1TH": []
+        }
+      },
+      "audio/532THIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1047,
+        "scope": {
+          "2TH": []
+        }
+      },
+      "audio/541TIIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1935,
+        "scope": {
+          "1TI": []
+        }
+      },
+      "audio/552TIIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1343,
+        "scope": {
+          "2TI": []
+        }
+      },
+      "audio/56TITIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1047,
+        "scope": {
+          "TIT": []
+        }
+      },
+      "audio/57PHMIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 455,
+        "scope": {
+          "PHM": []
+        }
+      },
+      "audio/58HEBIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 4007,
+        "scope": {
+          "HEB": []
+        }
+      },
+      "audio/59JASIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1639,
+        "scope": {
+          "JAS": []
+        }
+      },
+      "audio/601PEIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1639,
+        "scope": {
+          "1PE": []
+        }
+      },
+      "audio/612PEIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1047,
+        "scope": {
+          "2PE": []
+        }
+      },
+      "audio/621JNIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 1639,
+        "scope": {
+          "1JN": []
+        }
+      },
+      "audio/632JNIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 455,
+        "scope": {
+          "2JN": []
+        }
+      },
+      "audio/643JNIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 455,
+        "scope": {
+          "3JN": []
+        }
+      },
+      "audio/65JUDIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 455,
+        "scope": {
+          "JUD": []
+        }
+      },
+      "audio/66REVIRV.timing.json": {
+        "mimeType": "text/json",
+        "size": 6671,
+        "scope": {
+          "REV": []
+        }
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Hindi Indian Revised Version © 2019 Bridge Connectivity Solutions",
+          "mimetype": "text/html",
+          "lang": "en"
+        }
+      ]
+    }
+  },
+  "article_metadata": {}
+}
